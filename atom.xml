@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>818驿站</title>
+  
+  <subtitle>818.wiki</subtitle>
+  <link href="https://www.818.wiki/atom.xml" rel="self"/>
+  
+  <link href="https://www.818.wiki/"/>
+  <updated>2021-01-26T09:47:48.202Z</updated>
+  <id>https://www.818.wiki/</id>
+  
+  <author>
+    <name>818驿站</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nodejs同步acme证书同步腾讯云</title>
+    <link href="https://www.818.wiki/archive-7d117030-5fbb-11eb-830e-ff0d2ff4749c.html"/>
+    <id>https://www.818.wiki/archive-7d117030-5fbb-11eb-830e-ff0d2ff4749c.html</id>
+    <published>2021-01-21T21:54:36.000Z</published>
+    <updated>2021-01-26T09:47:48.202Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;nodejs版本&quot;&gt;&lt;a href=&quot;#nodejs版本&quot; class=&quot;headerlink&quot; title=&quot;nodejs版本&quot;&gt;&lt;/a&gt;nodejs版本&lt;/h2&gt;&lt;h3 id=&quot;依赖&quot;&gt;&lt;a href=&quot;#依赖&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="nodejs" scheme="https://www.818.wiki/categories/nodejs/"/>
+    
+    <category term="acme" scheme="https://www.818.wiki/categories/nodejs/acme/"/>
+    
+    
+    <category term="acme" scheme="https://www.818.wiki/tags/acme/"/>
+    
+    <category term="nodejs" scheme="https://www.818.wiki/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>laravel同步acme证书同步腾讯云</title>
+    <link href="https://www.818.wiki/archive-6f5220a0-5bdf-11eb-8a72-77cdc953fc56.html"/>
+    <id>https://www.818.wiki/archive-6f5220a0-5bdf-11eb-8a72-77cdc953fc56.html</id>
+    <published>2021-01-21T11:54:36.000Z</published>
+    <updated>2021-01-26T09:46:36.464Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;laravel版本&quot;&gt;&lt;a href=&quot;#laravel版本&quot; class=&quot;headerlink&quot; title=&quot;laravel版本&quot;&gt;&lt;/a&gt;laravel版本&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-php&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="laravel" scheme="https://www.818.wiki/categories/laravel/"/>
+    
+    <category term="acme" scheme="https://www.818.wiki/categories/laravel/acme/"/>
+    
+    
+    <category term="laravel" scheme="https://www.818.wiki/tags/laravel/"/>
+    
+    <category term="acme" scheme="https://www.818.wiki/tags/acme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>quantumult x 规则</title>
+    <link href="https://www.818.wiki/archive-d2e1ca00-5bab-11eb-93f3-c55ecbfcaee9.html"/>
+    <id>https://www.818.wiki/archive-d2e1ca00-5bab-11eb-93f3-c55ecbfcaee9.html</id>
+    <published>2020-11-06T05:45:10.000Z</published>
+    <updated>2021-01-21T05:48:56.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;配置如下&quot;&gt;&lt;a href=&quot;#配置如下&quot; class=&quot;headerlink&quot; title=&quot;配置如下&quot;&gt;&lt;/a&gt;配置如下&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-apacheconf&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="quantumult x" scheme="https://www.818.wiki/categories/quantumult-x/"/>
+    
+    
+    <category term="quantumult x" scheme="https://www.818.wiki/tags/quantumult-x/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis 模拟锁</title>
+    <link href="https://www.818.wiki/archive-30f42160-5891-11eb-a627-575a3d214973.html"/>
+    <id>https://www.818.wiki/archive-30f42160-5891-11eb-a627-575a3d214973.html</id>
+    <published>2020-10-17T06:56:57.000Z</published>
+    <updated>2021-01-18T04:30:10.911Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-php&quot; data-language=&quot;php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$existKey&lt;/span&gt; &lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="redis" scheme="https://www.818.wiki/categories/redis/"/>
+    
+    
+    <category term="redis" scheme="https://www.818.wiki/tags/redis/"/>
+    
+    <category term="lock" scheme="https://www.818.wiki/tags/lock/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Charles重写Response</title>
+    <link href="https://www.818.wiki/archive-5bb0cb60-57f1-11eb-8147-a564dbdfaff8.html"/>
+    <id>https://www.818.wiki/archive-5bb0cb60-57f1-11eb-8147-a564dbdfaff8.html</id>
+    <published>2020-08-16T12:50:50.000Z</published>
+    <updated>2021-01-18T04:30:10.911Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;重写网址：&quot;&gt;&lt;a href=&quot;#重写网址：&quot; class=&quot;headerlink&quot; title=&quot;重写网址：&quot;&gt;&lt;/a&gt;重写网址：&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="charles" scheme="https://www.818.wiki/categories/charles/"/>
+    
+    
+    <category term="charles" scheme="https://www.818.wiki/tags/charles/"/>
+    
+  </entry>
+  
+</feed>
